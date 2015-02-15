@@ -7,4 +7,5 @@ categories:[blogging]
 tags: [blogging]
 ---
 
+
 Now on to creating actual content in your post.
